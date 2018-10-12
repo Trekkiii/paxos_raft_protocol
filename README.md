@@ -10,6 +10,10 @@
 
 [>> 原文](./The-Part-Time-Parliament.pdf)
 
+[>> 译文](./Paxos-Made-Simple_zh.pdf)
+
+[>> 原文](./Paxos-Made-Simple.pdf)
+
 ### John Ousterhout and Diego Ongaro
 
 [>> 译文](./paxos_zh.pptx)
