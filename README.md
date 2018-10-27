@@ -6,9 +6,13 @@
 
 ### Leslie Lamport
 
+**The-Part-Time-Parliament**:
+
 [>> 译文](./The-Part-Time-Parliament_zh.pdf)
 
 [>> 原文](./The-Part-Time-Parliament.pdf)
+
+**Paxos-Made-Simple**
 
 [>> 译文](./Paxos-Made-Simple_zh.pdf)
 
@@ -24,8 +28,9 @@
 >
 > 这也是我所遇到的讲解 Paxos 最为详尽的一份不可多得的资料。
 > 
-> 如果大家对 ppt 里的内容不是很理解，可以订阅我的课程：https://gitbook.cn/gitchat/activity/5bb038b45828f008f1d73fd6
-> 我在里面对 ppt 的每一页都做了详细的讲解，并提供了伪代码和Java实现。
+> 如果大家对 PPT 里的内容不是很理解，可以订阅我的课程，对 PPT 的每一页都做了详细的讲解，并总结了算法实现概述。
+
+![](./assert/Paxos_GitChat.jpeg)
 
 ## ZAB
 
@@ -33,9 +38,9 @@
 
 [>> 原文](./2012-deSouzaMedeiros.pdf)
 
->翻译的不好，如果有晦涩难懂或者翻译不好的地方欢迎大家提Issues👏
+> 翻译的不好，如果有晦涩难懂或者翻译不好的地方欢迎大家提Issues👏
 >
->对于一些专有名词，则采取使用原英文形式，以保持其含义的准确性。
+> 对于一些专有名词，则采取使用原英文形式，以保持其含义的准确性。
 
 ## TODO
 
