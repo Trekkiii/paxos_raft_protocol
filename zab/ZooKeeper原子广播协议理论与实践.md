@@ -96,7 +96,7 @@ ZooKeeper客户端是通过连接至少一台服务器来使用ZooKeeper服务�
 
 **Phase 1: Discovery** 在这一阶段，followers与他们的准leader进行通信，以便leader获取关于其followers接受的最新的事务的信息。此阶段的目的是发现大多数peers中接受的事务的最新序列，并建立一个新的选举周期(_epoch_)，以便以前的leader不能提交新的提案。算法1给出了这个阶段的完整描述。
 
-![Algorithm_1_Zab_Phase_1_Discovery](assert/Algorithm_1_Zab_Phase_1_Discovery.png)
+![Algorithm_1_Zab_Phase_1_Discovery](../assert/Algorithm_1_Zab_Phase_1_Discovery.png)
 
 >zab1.0 中提到：
 f When the follower receives LEADERINFO(e) it will do one of the following:
