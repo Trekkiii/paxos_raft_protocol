@@ -8,19 +8,19 @@
 
 Leslie Lamport（Paxos之父）论文《The Part-Time Parliament》、《Paxos Made Simple》。
 
-**The-Part-Time-Parliament**:
+#### The-Part-Time-Parliament
 
 [>> 译文](paxos/The-Part-Time-Parliament_zh.pdf)
 
 [>> 原文](paxos/The-Part-Time-Parliament.pdf)
 
-**Paxos-Made-Simple**：
+#### Paxos-Made-Simple
 
 [>> 译文](paxos/Paxos-Made-Simple_zh.pdf)
 
 [>> 原文](paxos/Paxos-Made-Simple.pdf)
 
-### 斯坦福大学
+### Diego Ongaro
 
 作者：John Ousterhout(斯坦福大学教授) 和Diego Ongaro(斯坦福大学获得博士学位，Raft算法发明人)
 
@@ -42,21 +42,6 @@ Leslie Lamport（Paxos之父）论文《The Part-Time Parliament》、《Paxos M
 
 [>> 原文](raft/raft.pptx)
 
-[>> raft协议详解](raft/raft.md)
+[>> Raft协议详解](raft/raft.md)
 
-## ZAB
-
-[>> 译文](zab/ZooKeeper原子广播协议理论与实践.md)
-
-[>> 原文](zab/2012-deSouzaMedeiros.pdf)
-
-> 翻译的不好，如果有晦涩难懂或者翻译不好的地方欢迎大家提issues👏
->
-> 对于一些专有名词，则采取使用原英文形式，以保持其含义的准确性。
-
-## TODO
-
-**ZAB：**
-
-* TODO<sup>①</sup>、TODO<sup>②</sup> 结合issues进行理解；
-* Fast Leader Election 快速选举算法完成其余的流程分析；
+[>> Raft一致性算法论文译文](https://github.com/archessay/raft-zh_cn/blob/master/raft-zh_cn.md)
